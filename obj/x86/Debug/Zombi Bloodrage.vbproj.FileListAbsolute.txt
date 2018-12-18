@@ -1,0 +1,26 @@
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\bin\Debug\Line Drawer.exe
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\bin\Debug\Line Drawer.pdb
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\bin\Debug\Line Drawer.xml
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\Line Drawer.exe
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\Line Drawer.xml
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\Line Drawer.pdb
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Line Drawer\Line Drawer\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\Line Drawer.exe
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\Line Drawer.xml
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\Line Drawer.pdb
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\bin\Debug\Line Drawer.exe
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\bin\Debug\Line Drawer.pdb
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\bin\Debug\Line Drawer.xml
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\WindowsApplication1.Dialog1.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Erik\Documents\Visual Studio 2010\Projects\Zombi Bloodrage\Line Drawer\obj\x86\Debug\GenerateResource.write.1.tlog
